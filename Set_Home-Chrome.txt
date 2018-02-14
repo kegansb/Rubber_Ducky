@@ -44,7 +44,7 @@ DOWN
 TAB
 ENTER
 DELAY 100
-STRING my.hacc.edu
+STRING my.page.com
 DELAY 100
 ENTER
 CTRL W
