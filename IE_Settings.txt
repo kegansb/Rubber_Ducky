@@ -1,0 +1,17 @@
+GUI r
+DELAY 100
+STRING C:\Program Files\Internet Explorer\iexplore.exe
+DELAY 200
+ALT x
+DELAY 200
+STRING o
+DELAY 100
+STRING https:\\my.page.com
+TAB
+TAB
+TAB
+TAB
+STRING h
+DELAY 100
+ENTER
+CTRL w
