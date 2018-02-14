@@ -1,0 +1,19 @@
+GUI r
+DELAY 500
+STRING C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+ENTER
+DELAY 1000
+CTRL t
+DELAY 500
+STRING about:preferences
+ENTER
+DELAY 200
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+STRING https:\\my.hacc.edu
+CTRL w
+CTRL w
